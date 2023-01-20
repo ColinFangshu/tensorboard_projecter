@@ -1,0 +1,2 @@
+model_checkpoint_path: "BaronsAI.ckpt"
+all_model_checkpoint_paths: "BaronsAI.ckpt"
