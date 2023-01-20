@@ -2,8 +2,6 @@
   "embeddings": [
     {
       "tensorName": "BaronsAI",
-      "tensorShape": [125294, 100],
-      "tensorPath": "https://raw.githubusercontent.com/ColinFangshu/tensorboard_projecter/main/tb_201901/events.out.tfevents.1553175474.baronsAI-w2v",
       "metadataPath": "https://raw.githubusercontent.com/ColinFangshu/tensorboard_projecter/main/tb_201901/BaronsAI_viz.tsv"
     }
   ]
