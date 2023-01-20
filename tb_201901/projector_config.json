@@ -1,0 +1,8 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "BaronsAI", 
+      "tensorPath": "https://media.githubusercontent.com/media/ColinFangshu/tensorboard_projecter/main/tb_201901/BaronsAI.tsv"
+    }
+  ]
+}
